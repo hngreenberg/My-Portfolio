@@ -66,7 +66,7 @@ function Home () {
             <textarea name="comments" rows="4">Enter your message</textarea><br />
             <input type="submit" value="Submit" /><br />
             </form>
-            {/* <h2 id="resume"><a href="https://github.com/hngreenberg/aquaDown">Please review my resume for my work experience!</a></h2> */}
+            {/* <h2 id="resume"><a href="https://drive.google.com/uc?export=download&id=1U6DgKYbOkIkQKQrPb9U9rJxt8GpNkwttTQ8RC2xOS4k">Please review my resume for my work experience!</a></h2> */}
         </main>
       </div>
     );
