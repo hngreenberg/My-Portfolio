@@ -1,7 +1,7 @@
 import React from 'react';
 
-class About extends React.Component {
-    render() {
+function About () {
+    // render() {
         return (
             <main><h2 class="#About Me">About Me</h2>
             <p>My name is Heather and I live in Washington State. I am currently enrolled in UCB full stack bootcamp. 
@@ -9,7 +9,7 @@ class About extends React.Component {
                 </main>
         )
 
-    }
+    // }
 }
 
 export default About;
