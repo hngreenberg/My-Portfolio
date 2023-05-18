@@ -1,8 +1,8 @@
 # My-Portfolio
 
 ## Purpose
-This is a portfolio that showcases my projects throughout my journey as a full stack student. 
-This app is built using React. 
+This is a portfolio that showcases my projects throughout my journey as a full stack student
+This app is built using HTML, CSS, Javascript, and React. 
 
 ## User Story
 
@@ -13,5 +13,15 @@ This app is built using React.
 
 ## Mock-UP
 
+<img width="1168" alt="Screen Shot 2023-05-18 at 1 26 08 PM" src="https://github.com/hngreenberg/My-React-Portfolio/assets/119267074/dcdf29ca-03e0-41a0-a189-f23d9da2cd77">
+
+
 
 ## Deployment 
+
+1. Clone Repository
+2. cd into htmltoreact folder
+3. Run npm install
+4. Run npm start
+
+Githug pages: https://hngreenberg.github.io/htmltoreact
